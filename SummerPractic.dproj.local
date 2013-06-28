@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2013.06.28 20:34:52.308,=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.06.28 20:35:06.852,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Form.pas=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.06.28 20:35:06.852,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Form.dfm=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013.06.28 20:35:15.734,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\SummerPractic.dproj=C:\Users\Nixy\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
