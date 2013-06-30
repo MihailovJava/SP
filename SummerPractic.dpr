@@ -2,7 +2,10 @@ program SummerPractic;
 
 uses
   Vcl.Forms,
-  Form in 'Form.pas' {Form1};
+  Form in 'Form.pas' {Form1},
+  Point in 'Point.pas',
+  Line in 'Line.pas',
+  Triangle in 'Triangle.pas';
 
 {$R *.res}
 

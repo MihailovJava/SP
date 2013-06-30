@@ -1,9 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2013.06.28 20:34:52.308,=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2013.06.28 20:35:06.852,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Form.pas=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2013.06.28 20:35:06.852,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Form.dfm=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2013.06.28 20:35:15.734,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\SummerPractic.dproj=C:\Users\Nixy\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.734,C:\Users\Nixy\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\SummerPractic.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,=C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,C:\Users\Nixy\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Form.pas</Transaction>
+    <Transaction>2013.06.30 19:00:30.225,=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Unit1.pas</Transaction>
+    <Transaction>2013.06.30 19:00:42.009,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\TPoint.pas=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Unit1.pas</Transaction>
+    <Transaction>2013.06.30 19:15:45.910,=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Unit1.pas</Transaction>
+    <Transaction>2013.06.30 19:16:01.186,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Line.pas=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Unit1.pas</Transaction>
+    <Transaction>2013.06.30 19:16:14.839,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Point.pas=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\TPoint.pas</Transaction>
+    <Transaction>2013.06.30 19:19:34.112,=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Unit1.pas</Transaction>
+    <Transaction>2013.06.30 19:19:44.746,C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Triangle.pas=C:\Users\Nixy\Documents\RAD Studio\Летняя практика 2013\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
