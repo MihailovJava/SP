@@ -2,4 +2,4 @@
 __history/
 #Local Settings
 *.local
-.identcache
+*.identcache
