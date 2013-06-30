@@ -1,2 +1,5 @@
 #History
 __history/
+#Local Settings
+*.local
+.identcache
