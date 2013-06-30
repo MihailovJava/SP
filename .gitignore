@@ -3,3 +3,6 @@ __history/
 #Local Settings
 *.local
 *.identcache
+*.res
+#Debug and Release
+Win32/

@@ -4,9 +4,9 @@ interface
 
 type
   CPoint = class
-    published
-      fx:Real;
-      fy:Real;
+    protected
+      fx:real;
+      fy:real;
       fname:String;
     public
      property x: real read fx;
