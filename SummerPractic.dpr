@@ -5,7 +5,8 @@ uses
   Form in 'Form.pas' {Form1},
   Point in 'Point.pas',
   Line in 'Line.pas',
-  Triangle in 'Triangle.pas';
+  Triangle in 'Triangle.pas',
+  Trace in 'Trace.pas';
 
 {$R *.res}
 
